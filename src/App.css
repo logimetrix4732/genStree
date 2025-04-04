@@ -1,0 +1,48 @@
+.cursor2 {
+  width: 25px;
+  height: 25px;
+  border-radius: 100%;
+  border: 1px solid var(--theme-color);
+  -webkit-transition: all 200ms ease-out;
+  transition: all 200ms ease-out;
+  position: fixed;
+  pointer-events: none;
+  left: 0;
+  top: 0;
+  z-index: 999999;
+  -webkit-transform: translate(calc(-50% + 15px), -50%);
+  -ms-transform: translate(calc(-50% + 15px), -50%);
+  transform: translate(calc(-50% + 15px), -50%);
+}
+.cursor2.hover {
+  display: none;
+}
+.cursor {
+  width: 10px;
+  height: 10px;
+  border-radius: 100%;
+  background-color: var(--theme-color);
+  opacity: 0.3;
+  position: fixed;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  pointer-events: none;
+  z-index: 999999;
+  -webkit-transition:
+    0.2s cubic-bezier(0.75, -0.27, 0.3, 1.33) opacity,
+    0.4s cubic-bezier(0.75, -1.27, 0.3, 2.33) -webkit-transform;
+  transition:
+    0.2s cubic-bezier(0.75, -0.27, 0.3, 1.33) opacity,
+    0.4s cubic-bezier(0.75, -1.27, 0.3, 2.33) -webkit-transform;
+  transition:
+    0.4s cubic-bezier(0.75, -1.27, 0.3, 2.33) transform,
+    0.2s cubic-bezier(0.75, -0.27, 0.3, 1.33) opacity;
+  transition:
+    0.4s cubic-bezier(0.75, -1.27, 0.3, 2.33) transform,
+    0.2s cubic-bezier(0.75, -0.27, 0.3, 1.33) opacity,
+    0.4s cubic-bezier(0.75, -1.27, 0.3, 2.33) -webkit-transform;
+}
+.cursor.hover {
+  display: none;
+}

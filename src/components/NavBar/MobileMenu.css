@@ -1,0 +1,41 @@
+.th-menu-area {
+  position: fixed;
+  top: 0;
+  right: -100%;
+  width: 80%;
+  height: 100%;
+  background: #fff;
+  transition: right 0.3s ease-in-out;
+  z-index: 1000;
+  box-shadow: -2px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.th-menu-area.open {
+  right: 0;
+}
+
+.th-menu-toggle {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  background: none;
+  border: none;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.th-mobile-menu {
+  display: none;
+}
+
+.th-mobile-menu.active {
+  display: block;
+}
+
+.menu-item-has-children .sub-menu {
+  display: none;
+}
+
+.menu-item-has-children:hover .sub-menu {
+  display: block;
+}
