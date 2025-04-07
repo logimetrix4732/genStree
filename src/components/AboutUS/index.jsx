@@ -52,7 +52,7 @@ const AboutUS = ({ aboutSectionRef }) => {
               <ul className="list-unstyled d-flex flex-column gap-2">
                 <li className="d-flex align-items-center gap-2">
                   <img
-                    src="assets/img/icon/check_1.png"
+                    src="assets/img/icon/check_5.svg"
                     alt="icon"
                     loading="lazy"
                   />
@@ -60,7 +60,7 @@ const AboutUS = ({ aboutSectionRef }) => {
                 </li>
                 <li className="d-flex align-items-center gap-2">
                   <img
-                    src="assets/img/icon/check_1.png"
+                    src="assets/img/icon/check_5.svg"
                     alt="icon"
                     loading="lazy"
                   />
@@ -70,7 +70,7 @@ const AboutUS = ({ aboutSectionRef }) => {
               <ul className="list-unstyled d-flex flex-column gap-2">
                 <li className="d-flex align-items-center gap-2">
                   <img
-                    src="assets/img/icon/check_1.png"
+                    src="assets/img/icon/check_5.svg"
                     alt="icon"
                     loading="lazy"
                   />
@@ -78,7 +78,7 @@ const AboutUS = ({ aboutSectionRef }) => {
                 </li>
                 <li className="d-flex align-items-center gap-2">
                   <img
-                    src="assets/img/icon/check_1.png"
+                    src="assets/img/icon/check_5.svg"
                     alt="icon"
                     loading="lazy"
                   />

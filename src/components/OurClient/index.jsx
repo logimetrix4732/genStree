@@ -15,7 +15,7 @@ import logo9 from "../../Imges/logo9.png";
 import logo10 from "../../Imges/logo10.png";
 import logo11 from "../../Imges/logo11.png";
 import logo12 from "../../Imges/logo12.png";
-
+import testimonial_bg_51 from "../../assets/img/bg/testimonial_bg_51.png";
 const OurClient = () => {
   const testimonials = [
     {
@@ -136,7 +136,7 @@ const OurClient = () => {
       <div
         className="position-absolute top-0 start-0 w-100"
         style={{
-          backgroundImage: "url('assets/img/bg/testimonial_bg_5.png')",
+          backgroundImage: `url(${testimonial_bg_51})`,
           backgroundSize: "cover",
           backgroundPosition: "center",
           height: "450px",
