@@ -173,7 +173,7 @@ const aboutData5 = [
     title: "Student Finance Management – Easy Education Loans ",
     highlight: " Students",
     description:
-      "Logimetrix proudly presents Student Finance Management, a cutting-edge financial aid platform designed to simplify the process of securing education loans for students. With seamless integration between students, schools, and lenders, Student Finance Management ensures a transparent, efficient, and user-friendly solution for managing education loans.",
+      "GenStree proudly presents Student Finance Management, a cutting-edge financial aid platform designed to simplify the process of securing education loans for students. With seamless integration between students, schools, and lenders, Student Finance Management ensures a transparent, efficient, and user-friendly solution for managing education loans.",
     checklist: [
       [
         { icon: feature_2_1, text: "Loan Application" },

@@ -21,7 +21,7 @@ const OurClient = () => {
     {
       id: 1,
       img: logo1,
-      text: "The DMS solution provided by Logimetrix has enhanced our document handling processes and significantly improved our efficiency. Highly recommended!",
+      text: "The DMS solution provided by GenStree has enhanced our document handling processes and significantly improved our efficiency. Highly recommended!",
       avatar: "assets/img/testimonial/testi_2_1.png",
       name: "ACME",
       designation: "Manager",
@@ -66,7 +66,7 @@ const OurClient = () => {
     {
       id: 6,
       img: logo6,
-      text: "The SAG project was executed flawlessly by Logimetrix. Their innovative approach has brought a new level of precision to our operations.",
+      text: "The SAG project was executed flawlessly by GenStree. Their innovative approach has brought a new level of precision to our operations.",
       avatar: "assets/img/testimonial/testi_2_2.png",
       name: "SAG",
       designation: "CTO of Portfolio",
@@ -84,7 +84,7 @@ const OurClient = () => {
     {
       id: 8,
       img: logo8,
-      text: "The Sterlite project was completed with remarkable precision, expertise, and efficiency. Logimetrix's innovative solutions have truly optimized our workflows seamlessly.",
+      text: "The Sterlite project was completed with remarkable precision, expertise, and efficiency. GenStree's innovative solutions have truly optimized our workflows seamlessly.",
       avatar: "assets/img/testimonial/testi_2_2.png",
       name: "Sterlite Power",
       designation: "CTO of Portfolio",
@@ -93,7 +93,7 @@ const OurClient = () => {
     {
       id: 9,
       img: logo9,
-      text: "Logimetrix's expertise in the Indus Tower project delivered unparalleled results and innovation. Their commitment, dedication, and solutions exceeded all expectations.",
+      text: "GenStree's expertise in the Indus Tower project delivered unparalleled results and innovation. Their commitment, dedication, and solutions exceeded all expectations.",
       avatar: "assets/img/testimonial/testi_2_2.png",
       name: "Indus Tower",
       designation: "CTO of Portfolio",
@@ -102,7 +102,7 @@ const OurClient = () => {
     {
       id: 10,
       img: logo10,
-      text: "The NDDB project was executed with unparalleled expertise and precision by the Logimetrix team. Their innovative solutions are truly top-notch.",
+      text: "The NDDB project was executed with unparalleled expertise and precision by the GenStree team. Their innovative solutions are truly top-notch.",
       avatar: "assets/img/testimonial/testi_2_1.png",
       name: "Dummy Client 1",
       designation: "CEO",
@@ -120,7 +120,7 @@ const OurClient = () => {
     {
       id: 12,
       img: logo12,
-      text: "Logimetrix delivered exceptional solutions for our Solar and CMS needs. Their professionalism, dedication, innovation, and attention to detail are truly unmatched.",
+      text: "GenStree delivered exceptional solutions for our Solar and CMS needs. Their professionalism, dedication, innovation, and attention to detail are truly unmatched.",
       avatar: "assets/img/testimonial/testi_2_1.png",
       name: "Dummy Client 3",
       designation: "Lead Engineer",

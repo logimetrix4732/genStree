@@ -62,7 +62,7 @@ const ApplicationReengineering = () => {
   };
   const aboutData = {
     title: "Application Re-engineering Services",
-    subtitle: "What you get with LOGIMETRIX application re-engineering",
+    subtitle: "What you get with GenStree application re-engineering",
     tags: ["MODERNIZATION", "PERFORMANCE", "SCALABILITY", "CLOUD MIGRATION"],
     description:
       "Our application re-engineering services are designed to transform your legacy software for superior user experience and improved scalability, security, and maintainability. By addressing and pre-empting performance issues through strategic updates to your architecture and technology stack, we ensure your applications run smoothly and efficiently, safeguarding your business operations from disruptions. Our expert cloud consulting and migration services allow you to enhance your software's scalability and flexibility further. This allows you to adapt swiftly to the ever-changing business environment without being held back by outdated legacy systems. Our multi-skilled team of software engineers also helps you streamline your entire SDLC to optimize application development, minimize downtime, and prevent revenue loss.",

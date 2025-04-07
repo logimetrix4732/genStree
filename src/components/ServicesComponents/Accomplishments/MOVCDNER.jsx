@@ -65,7 +65,7 @@ const MOVCDNER = () => {
           "Access to essential farming resources, real-time weather updates, and market prices to enhance productivity. Get expert advice, monitor crop health, optimize irrigation, access government schemes, receive pest alerts, and track soil quality insights. Utilize AI-driven analytics for better yield predictions, manage farm expenses efficiently, access digital marketplaces for selling produce, receive automated fertilizer recommendations, explore modern farming techniques, track climate patterns, and get real-time alerts on disease outbreaks.",
         image: farmer,
         date: "25 Feb, 2024",
-        author: "Logimetrix Team",
+        author: "GenStree Team",
       },
       {
         id: 2,

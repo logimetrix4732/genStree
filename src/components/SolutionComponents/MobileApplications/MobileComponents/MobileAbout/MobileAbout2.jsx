@@ -8,7 +8,7 @@ const sections = [
     image2: download821,
     subtitle: "Easy User Experience",
     title: "Better cash control with",
-    highlight: "logimetrix Flow",
+    highlight: "GenStree Flow",
     description: [
       "Provide a brief overview of the app's purpose and key features.",
       "Use concise descriptions or bullet points to emphasize what sets your app apart from others in the market.",

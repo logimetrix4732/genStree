@@ -234,7 +234,7 @@ const CarrerForm = ({
               textAlign: "center",
               cursor: "pointer",
               mb: 2,
-              "&:hover": { backgroundColor: "#e1eaff" },
+              "&:hover": { backgroundColor: "#e4f1d3" },
             }}
           >
             <input
@@ -275,7 +275,7 @@ const CarrerForm = ({
               cursor: "pointer",
               transition: "color 0.3s ease",
             }}
-            onMouseEnter={(e) => (e.target.style.color = "#4786e6")}
+            onMouseEnter={(e) => (e.target.style.color = "#7db432")}
             onMouseLeave={(e) => (e.target.style.color = "#3f3f42")}
             onClick={() => setStatusDialogOpen(true)}
           >
@@ -293,7 +293,7 @@ const CarrerForm = ({
               fontWeight: "bold",
               p: 1.5,
               borderRadius: "10px",
-              backgroundColor: "#4786e6",
+              backgroundColor: "#7db432",
             }}
             onClick={handleSubmit}
             disabled={loading}
@@ -389,7 +389,7 @@ const CarrerForm = ({
           </Button>
           <Button
             style={{
-              backgroundColor: "#4786e6",
+              backgroundColor: "#7db432",
               color: "#fff",
               border: "none",
               height: "40px",

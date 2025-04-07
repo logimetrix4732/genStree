@@ -237,7 +237,7 @@ export default function CarrerPage() {
                         height: "915px",
                         overflowY: "auto",
                         scrollbarWidth: "thin",
-                        scrollbarColor: "#4786e6 #f1f1f1",
+                        scrollbarColor: "#7db432 #f1f1f1",
                         "&::-webkit-scrollbar": {
                           width: "6px",
                         },

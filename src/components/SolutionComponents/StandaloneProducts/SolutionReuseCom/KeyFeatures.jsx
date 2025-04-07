@@ -15,7 +15,7 @@ const KeyFeatures = ({ testimonials }) => {
           backgroundImage: `url(${testi_bg_4})`,
           backgroundSize: "cover",
           backgroundPosition: "center",
-          backgroundColor: "#4786E6",
+          backgroundColor: "#7db432",
         }}
       >
         <div className="container">

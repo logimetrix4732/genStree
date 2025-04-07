@@ -192,7 +192,7 @@ const JobPost = ({
             fontWeight: "bold",
             p: 1.5,
             borderRadius: "10px",
-            backgroundColor: "#4786e6",
+            backgroundColor: "#7db432",
           }}
           disabled={loading}
           onClick={() => {

@@ -50,7 +50,7 @@ const KeyFeature = () => {
           >
             {[
               {
-                text: "I've had the pleasure of working with logimetrix...",
+                text: "I've had the pleasure of working with GenStree...",
                 name: "Michel Jane Alum",
                 role: "CTO of Portfolio",
               },

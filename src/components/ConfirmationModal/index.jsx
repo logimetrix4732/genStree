@@ -45,7 +45,7 @@ const ConfirmationModal = ({
         </Button>
         <Button
           style={{
-            backgroundColor: "#4786e6",
+            backgroundColor: "#7db432",
             color: "#fff",
             border: "none",
             height: "40px",

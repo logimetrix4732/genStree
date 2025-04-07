@@ -20,7 +20,7 @@ import ProductOriented1 from "../../../Imges/ProductOriented2.png";
 const EnterpriseApplication = () => {
   const aboutFeatures = {
     title: "Enterprise Application Solutions",
-    heading: "What you get with LOGIMETRIX enterprise applications",
+    heading: "What you get with GenStree enterprise applications",
     aboutus:
       "We provide top-tier enterprise solutions with customization options and expert support. With 12+ years of experience, we specialize in custom software and seamless integrations across industries like finance, logistics, healthcare, and more. Our certified team partners with SAP, Microsoft, Odoo, and Salesforce to deliver secure, high-performance solutions.",
     img: [enterprise4, ProductOriented1],
@@ -39,7 +39,7 @@ const EnterpriseApplication = () => {
     {
       img: service_7_1,
       title: "ERP Solutions",
-      desc: "Stop chasing leads and attract them with targeted campaigns. Logimetrix's suite of tools, including...",
+      desc: "Stop chasing leads and attract them with targeted campaigns. GenStree's suite of tools, including...",
       link: "/contactUs",
     },
     {

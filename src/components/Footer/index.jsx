@@ -112,10 +112,10 @@ const Footer = () => {
                     </div>
                     <div className="media-body">
                       <p
-                        href="mailto:info@GenStree.co.in"
+                        href="mailto:info@genStree.co.in"
                         className="about-text"
                       >
-                        info@GenStree.co.in
+                        info@genStree.co.in
                       </p>
                     </div>
                   </div>

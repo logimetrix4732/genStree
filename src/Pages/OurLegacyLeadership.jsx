@@ -136,7 +136,7 @@ const OurLegacyLeadership = () => {
                   </h2>
                 </div>
                 <p class="mt-n2 mb-30">
-                  At Logimetrix, we believe in pushing the boundaries of
+                  At GenStree, we believe in pushing the boundaries of
                   technology to create intelligent, scalable, and future-ready
                   solutions. Our journey is fueled by innovation, integrity, and
                   a relentless pursuit of excellence. With a visionary mindset

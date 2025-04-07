@@ -49,7 +49,7 @@ const OurWorkProcessNew = () => {
                   </a>
                   <a className="author" href="blog.html">
                     <i className="far fa-user" />
-                    By Logimetrix
+                    By GenStree
                   </a>
                 </div>
               </div>
@@ -63,7 +63,7 @@ const OurWorkProcessNew = () => {
               <div className="blog-content">
                 <h3 className="box-title">
                   <a href="blog-details.html">
-                    Logimetrix Wins Award for Excellence in Cloud Migration
+                    GenStree Wins Award for Excellence in Cloud Migration
                     Services
                   </a>
                 </h3>
@@ -75,7 +75,7 @@ const OurWorkProcessNew = () => {
                 <div className="blog-meta">
                   <a className="author" href="blog.html">
                     <i className="far fa-user" />
-                    By Logimetrix
+                    By GenStree
                   </a>
                   <a href="blog.html">
                     <i className="far fa-calendar" />
@@ -91,7 +91,7 @@ const OurWorkProcessNew = () => {
               <div className="blog-content">
                 <h3 className="box-title">
                   <a href="blog-details.html">
-                    Logimetrix Announces Partnership with Leading Technology
+                    GenStree Announces Partnership with Leading Technology
                     Company
                   </a>
                 </h3>
@@ -103,7 +103,7 @@ const OurWorkProcessNew = () => {
                 <div className="blog-meta">
                   <a className="author" href="blog.html">
                     <i className="far fa-user" />
-                    By Logimetrix
+                    By GenStree
                   </a>
                   <a href="blog.html">
                     <i className="far fa-calendar" />

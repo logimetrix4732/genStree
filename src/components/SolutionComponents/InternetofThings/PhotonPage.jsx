@@ -26,7 +26,7 @@ import talkabout from "../../../Imges/akshar1.png";
 
 const testimonials = [
   {
-    text: "“Logimetrix Photon provides real-time visibility and control over solar energy assets, enabling efficient management of the 30 MW Solar portfolio. The solution helps to monitor and improve performance, ensuring optimized energy production.”",
+    text: "GenStree Photon provides real-time visibility and control over solar energy assets, enabling efficient management of the 30 MW Solar portfolio. The solution helps to monitor and improve performance, ensuring optimized energy production.”",
     img: DocumentsStorageIcon,
     name: "Solar Energy Monitoring",
     designation: "",
@@ -94,8 +94,8 @@ const testimonials = [
 ];
 
 const ExpertiseArray = {
-  heading: "Logimetrix Photon",
-  para: "Logimetrix Photon is an IoT-based solution designed for real-time monitoring, data analytics, and performance optimization in the solar energy sector. Using advanced AI and machine learning algorithms, it helps businesses make informed decisions, reduce costs, and drive sustainability in energy management.",
+  heading: "GenStree Photon",
+  para: "GenStree Photon is an IoT-based solution designed for real-time monitoring, data analytics, and performance optimization in the solar energy sector. Using advanced AI and machine learning algorithms, it helps businesses make informed decisions, reduce costs, and drive sustainability in energy management.",
   keyPoints: [
     { name: "Real-time Monitoring & Control", per: "98%" },
     { name: "Predictive Analytics for Energy Optimization", per: "95%" },
@@ -110,9 +110,9 @@ const TalkToAbout2Array = {
   TalkToAboutArray: [
     {
       id: 1,
-      question: "How does Logimetrix Photon optimize solar energy management?",
+      question: "How does GenStree Photon optimize solar energy management?",
       answer:
-        "Logimetrix Photon provides real-time visibility, predictive analytics, and automated workflows to monitor and optimize solar energy production, improving efficiency and performance.",
+        "GenStree Photon provides real-time visibility, predictive analytics, and automated workflows to monitor and optimize solar energy production, improving efficiency and performance.",
     },
     {
       id: 2,
@@ -130,7 +130,7 @@ const TalkToAbout2Array = {
     {
       id: 4,
       question:
-        "How does Logimetrix Photon integrate with cloud and mobile platforms?",
+        "How does GenStree Photon integrate with cloud and mobile platforms?",
       answer:
         "Photon uses cloud and mobile technology to ensure remote access, real-time monitoring, and centralized data management, allowing businesses to control and optimize their solar energy systems from anywhere.",
     },
@@ -141,7 +141,7 @@ const aboutData = {
   title: "Photon",
   subtitle: "Empowering Solar Energy Management with IoT & AI",
   description:
-    "Logimetrix Photon is an advanced IoT and AI-powered solution that provides real-time monitoring, predictive analytics, and performance optimization for solar energy assets. With cloud and mobile integration, it empowers energy managers to make data-driven decisions and reduce costs across large-scale solar projects.",
+    "GenStree Photon is an advanced IoT and AI-powered solution that provides real-time monitoring, predictive analytics, and performance optimization for solar energy assets. With cloud and mobile integration, it empowers energy managers to make data-driven decisions and reduce costs across large-scale solar projects.",
   features: [
     "Real-time monitoring of solar energy assets with predictive analytics.",
     "AI-based reporting for performance optimization and cost reduction.",

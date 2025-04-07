@@ -21,7 +21,7 @@ const HowWeDoIt = () => {
     {
       img: service_7_1,
       title: "Google Cloud Platform",
-      desc: "Stop chasing leads and attract them with targeted campaigns. logimetrix's suite of tools, including...",
+      desc: "Stop chasing leads and attract them with targeted campaigns. GenStree's suite of tools, including...",
       link: "/contactUs",
     },
     {
@@ -45,7 +45,7 @@ const HowWeDoIt = () => {
     {
       img: service_7_1,
       title: "Tableau",
-      desc: "Stop chasing leads and attract them with targeted campaigns. logimetrix's suite of tools, including...",
+      desc: "Stop chasing leads and attract them with targeted campaigns. GenStree's suite of tools, including...",
       link: "/contactUs",
     },
     {

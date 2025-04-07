@@ -330,7 +330,7 @@ export default function MobileMenu({ open, toggleDrawer }) {
             justifyContent="space-between"
           >
             <Box display="flex" alignItems="center">
-              <ListItemIcon sx={{ minWidth: "40px", color: "#4786e6" }}>
+              <ListItemIcon sx={{ minWidth: "40px", color: "#7db432" }}>
                 {item.icon}
               </ListItemIcon>
               <ListItemText primary={item.title} sx={{ color: "#3b3b3b" }} />
@@ -338,14 +338,14 @@ export default function MobileMenu({ open, toggleDrawer }) {
             {item.children &&
               (level === 0 ? (
                 submenuOpen[item.segment] ? (
-                  <RemoveIcon sx={{ color: "#4786e6" }} />
+                  <RemoveIcon sx={{ color: "#7db432" }} />
                 ) : (
-                  <AddIcon sx={{ color: "#4786e6" }} />
+                  <AddIcon sx={{ color: "#7db432" }} />
                 )
               ) : (
                 <ArrowDropDownIcon
                   sx={{
-                    color: submenuOpen[item.segment] ? "#4786e6" : "#a1a1a1",
+                    color: submenuOpen[item.segment] ? "#7db432" : "#a1a1a1",
                     transform: submenuOpen[item.segment]
                       ? "rotate(180deg)"
                       : "rotate(0deg)",
@@ -376,7 +376,7 @@ export default function MobileMenu({ open, toggleDrawer }) {
         sx: {
           width: 280,
           backgroundColor: "white",
-          borderRight: "3px solid #4786e6",
+          borderRight: "3px solid #7db432",
           padding: "10px",
         },
       }}
@@ -394,10 +394,10 @@ export default function MobileMenu({ open, toggleDrawer }) {
           fontWeight="bold"
           sx={{ color: "#3b3b3b", display: "flex", alignItems: "center" }}
         >
-          <span style={{ color: "#4786e6" }}>GenStree</span>
+          <span style={{ color: "#7db432" }}>GenStree</span>
         </Typography>
         <IconButton onClick={toggleDrawer}>
-          <CloseIcon sx={{ color: "#4786e6" }} />
+          <CloseIcon sx={{ color: "#7db432" }} />
         </IconButton>
       </Box>
 

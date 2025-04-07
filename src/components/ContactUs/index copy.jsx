@@ -79,7 +79,7 @@ const ContactUs = () => {
                 <div className="media-body">
                   <h4 className="box-title">Send An Email</h4>
                   <span className="contact-info_text">
-                    <a href="mailto:info@GenStree.co.in">info@GenStree.co.in</a>
+                    <a href="mailto:info@genStree.co.in">info@genStree.co.in</a>
                   </span>
                 </div>
               </div>

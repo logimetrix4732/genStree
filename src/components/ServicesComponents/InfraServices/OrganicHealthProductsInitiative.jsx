@@ -20,7 +20,7 @@ const OrganicHealthProductsInitiative = () => {
     title: "Organic Health",
     subtitle: "Organic Health Products Initiative",
     description:
-      "In 2024, Logimetrix Techsolutions Pvt. Ltd. partnered with Syscom Organic World Pvt. Ltd. to enter the organic health products sector. This initiative goes beyond sustainable procurement and distribution, covering a wide range of organic cosmetic products. Our goal is not just to bring high-quality, chemical-free products to the market but also to develop a strong supply chain beneficial for both vendors and customers. This partnership promotes sustainable practices and provides consumers with a trusted, natural alternative.",
+      "In 2024, GenStree Techsolutions Pvt. Ltd. partnered with Syscom Organic World Pvt. Ltd. to enter the organic health products sector. This initiative goes beyond sustainable procurement and distribution, covering a wide range of organic cosmetic products. Our goal is not just to bring high-quality, chemical-free products to the market but also to develop a strong supply chain beneficial for both vendors and customers. This partnership promotes sustainable practices and provides consumers with a trusted, natural alternative.",
     features: [],
     images: [about_11_1, about_11_2, about_11_3],
     titleShape: title_shape_2,
@@ -38,7 +38,7 @@ const OrganicHealthProductsInitiative = () => {
       subTitle: "Organic Health Products Initiative",
       secTitle: "Our Vision & Commitment",
       description:
-        "At Logimetrix Techsolutions, we aim to redefine industry standards through innovation and customer-centric solutions, contributing to a growing organic market. Our commitment to sustainability ensures that every product meets high-quality standards while supporting eco-friendly practices.",
+        "At GenStree Techsolutions, we aim to redefine industry standards through innovation and customer-centric solutions, contributing to a growing organic market. Our commitment to sustainability ensures that every product meets high-quality standards while supporting eco-friendly practices.",
       checklist: [
         [
           "Ethically sourced organic raw materials",

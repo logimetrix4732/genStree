@@ -59,9 +59,9 @@ const ProductOrientedDelivery = () => {
   };
   const aboutFeatures = {
     title: "Product Oriented Delivery",
-    heading: "What’s behind LOGIMETRIX guaranteed delivery",
+    heading: "What’s behind GenStree guaranteed delivery",
     aboutus:
-      "With LOGIMETRIX' product-oriented delivery, we ensure your software vision transforms into a superior solution within your timeline and budget constraints. Our approach guarantees a quick start with a complementary product definition phase, allowing us to align swiftly with your project. We prioritize flexibility while keeping costs in check, ensuring your success is our success. By taking full responsibility for delivering your strategic plan, we maximize your solution’s business value and provide a tailored product that meets your business objectives. With complete transparency and a strong focus on business goals, we guarantee results as stated in the contract.",
+      "With GenStree' product-oriented delivery, we ensure your software vision transforms into a superior solution within your timeline and budget constraints. Our approach guarantees a quick start with a complementary product definition phase, allowing us to align swiftly with your project. We prioritize flexibility while keeping costs in check, ensuring your success is our success. By taking full responsibility for delivering your strategic plan, we maximize your solution’s business value and provide a tailored product that meets your business objectives. With complete transparency and a strong focus on business goals, we guarantee results as stated in the contract.",
     img: [appDevelp, ProductOriented],
     asd: [
       {
@@ -78,7 +78,7 @@ const ProductOrientedDelivery = () => {
     {
       img: service_7_1,
       title: "Agile Product Development",
-      desc: "Stop chasing leads and attract them with targeted campaigns. logimetrix's suite of tools, including...",
+      desc: "Stop chasing leads and attract them with targeted campaigns. GenStree's suite of tools, including...",
       link: "/contactUs",
     },
     {

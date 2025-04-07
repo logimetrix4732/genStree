@@ -69,7 +69,7 @@ const SAG = () => {
           "Access to AI tracking, breeding insights, and personalized livestock data to enhance productivity and livestock management. Farmers can monitor cattle health, vaccination schedules, and breeding history. Get AI-driven recommendations for better livestock care, track milk production trends, and receive real-time alerts on disease outbreaks. The system helps optimize feeding schedules, improve genetic selection, and analyze fertility rates.",
         image: farmer,
         date: "25 Feb, 2024",
-        author: "Logimetrix Team",
+        author: "GenStree Team",
       },
       {
         id: 2,

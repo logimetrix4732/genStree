@@ -67,10 +67,10 @@ const POCDevelopment = () => {
   };
   const aboutData = {
     title: "Proof of Concept Development",
-    subtitle: "What you get with LOGIMETRIX’ PoC development services",
+    subtitle: "What you get with GenStree PoC development services",
     tags: ["WEBSITE", "BRANDING", "INTERFACE", "ANIMATION"],
     description:
-      "LOGIMETRIX' PoC (Proof of Concept) development services are backed up by over 12 + years of industry experience and a track record of more than 1000 successfully delivered projects. We help you predict the success of your software project before making substantial investments. We will help you rigorously test your ideas so you can avoid the risk of premature investment in unproven concepts. Our team of multiskilled R&D experts can also assist you in refining your ideas and processes, giving you the best chance of success. With our PoC services you can test complex ideas, and cloud consulting, including those involving emerging technologies like generative AI, with minimal financial risk. Our team provides you with predictions and post-PoC development analysis to identify the best-fit solution. Additionally, our software experts will assist you in developing a roadmap that maximises the efficiency of the full-scale project and will help deliver your solution.",
+      "GenStree' PoC (Proof of Concept) development services are backed up by over 12 + years of industry experience and a track record of more than 1000 successfully delivered projects. We help you predict the success of your software project before making substantial investments. We will help you rigorously test your ideas so you can avoid the risk of premature investment in unproven concepts. Our team of multiskilled R&D experts can also assist you in refining your ideas and processes, giving you the best chance of success. With our PoC services you can test complex ideas, and cloud consulting, including those involving emerging technologies like generative AI, with minimal financial risk. Our team provides you with predictions and post-PoC development analysis to identify the best-fit solution. Additionally, our software experts will assist you in developing a roadmap that maximises the efficiency of the full-scale project and will help deliver your solution.",
     stats: [
       {
         number: "4-8",

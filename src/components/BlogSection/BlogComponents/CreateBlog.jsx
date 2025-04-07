@@ -186,7 +186,7 @@ const CreateBlog = ({
             textAlign: "center",
             cursor: "pointer",
             mb: 2,
-            "&:hover": { backgroundColor: "#e1eaff" },
+            "&:hover": { backgroundColor: "#e4f1d3" },
           }}
         >
           <input
@@ -225,7 +225,7 @@ const CreateBlog = ({
             fontWeight: "bold",
             p: 1.5,
             borderRadius: "10px",
-            backgroundColor: "#4786e6",
+            backgroundColor: "#7db432",
           }}
           onClick={handleSubmit}
           disabled={loading}

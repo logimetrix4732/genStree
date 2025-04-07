@@ -34,7 +34,7 @@ const Awards = () => {
             <article className="article">
               <h2 className="article-title article-title--large">
                 <a href="#" className="article-link">
-                  Logimetrix Techsolutions:{" "}
+                  GenStree:{" "}
                   <mark className="mark mark--primary">
                     Transforming Businesses
                   </mark>{" "}
@@ -47,15 +47,14 @@ const Awards = () => {
                   <strong>
                     20 Most Promising SaaS Solutions Providers – 2017
                   </strong>
-                  , Logimetrix Techsolutions specializes in delivering scalable,
-                  easily deployable, and ready-to-use SaaS solutions for
-                  enterprises.
+                  , GenStree specializes in delivering scalable, easily
+                  deployable, and ready-to-use SaaS solutions for enterprises.
                 </p>
                 <p>
-                  With a strong focus on AI, IoT, and cloud computing,
-                  Logimetrix offers products like <strong>TrakMob</strong>{" "}
-                  (Workforce Performance Management), <strong>TrakFuel</strong>{" "}
-                  (Fuel Monitoring System), and <strong>Eklavya</strong> (School
+                  With a strong focus on AI, IoT, and cloud computing, GenStree
+                  offers products like <strong>TrakMob</strong> (Workforce
+                  Performance Management), <strong>TrakFuel</strong> (Fuel
+                  Monitoring System), and <strong>Eklavya</strong> (School
                   Management System).
                 </p>
               </div>
@@ -78,12 +77,12 @@ const Awards = () => {
             <article className="article">
               <h2 className="article-title article-title--medium">
                 <a href="#" className="article-link">
-                  Logimetrix Techsolutions: Driving Innovation in{" "}
+                  GenStree: Driving Innovation in{" "}
                   <mark className="mark mark--primary">SaaS Solutions</mark>
                 </a>
               </h2>
               <div className="article-creditation">
-                <p>By Vipul Rai, CEO, Logimetrix Techsolutions</p>
+                <p>By Vipul Rai, CEO, GenStree</p>
               </div>
             </article>
           </div>
@@ -94,17 +93,17 @@ const Awards = () => {
               </figure>
               <h2 className="article-title article-title--medium">
                 <a href="#" className="article-link">
-                  Logimetrix Techsolutions: Transforming{" "}
+                  GenStree: Transforming{" "}
                   <mark className="mark mark--primary">SaaS Landscape</mark>
                 </a>
               </h2>
               <div className="article-excerpt">
                 <p>
-                  Logimetrix Techsolutions is revolutionizing the SaaS industry
-                  with scalable, AI-powered solutions that cater to diverse
-                  business needs. By leveraging cutting-edge technologies like
-                  IoT, AI, and cloud computing, they help businesses streamline
-                  operations and boost efficiency.
+                  GenStree is revolutionizing the SaaS industry with scalable,
+                  AI-powered solutions that cater to diverse business needs. By
+                  leveraging cutting-edge technologies like IoT, AI, and cloud
+                  computing, they help businesses streamline operations and
+                  boost efficiency.
                 </p>
                 <p>
                   Their flagship products, such as TrakMob for workforce
@@ -115,11 +114,11 @@ const Awards = () => {
                   decision-making capabilities.
                 </p>
                 <p>
-                  Founded by Shantanu Kumar, Logimetrix Techsolutions remains at
-                  the forefront of innovation, continually adapting to the
-                  ever-evolving technological landscape. Their commitment to
-                  delivering cost-effective, high-performance SaaS applications
-                  has earned them a reputation as a leading technology provider.
+                  Founded by Shantanu Kumar, GenStree remains at the forefront
+                  of innovation, continually adapting to the ever-evolving
+                  technological landscape. Their commitment to delivering
+                  cost-effective, high-performance SaaS applications has earned
+                  them a reputation as a leading technology provider.
                 </p>
               </div>
               <div className="article-author">
@@ -131,8 +130,8 @@ const Awards = () => {
                 </div>
                 <div className="article-author-info">
                   <dl>
-                    <dt>Shantanu Kumar</dt>
-                    <dd>Founder, Logimetrix Techsolutions</dd>
+                    <dt>Richa Rai</dt>
+                    <dd>Founder, GenStree</dd>
                   </dl>
                 </div>
               </div>
@@ -184,10 +183,9 @@ const Awards = () => {
               </h2>
               <div className="article-excerpt">
                 <p>
-                  Logimetrix Techsolutions Pvt. Ltd. specializes in delivering
-                  innovative and customized software solutions that empower
-                  businesses to scale efficiently and stay ahead in the digital
-                  era.
+                  GenStree specializes in delivering innovative and customized
+                  software solutions that empower businesses to scale
+                  efficiently and stay ahead in the digital era.
                 </p>
               </div>
               <div className="article-author">

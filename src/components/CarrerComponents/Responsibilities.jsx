@@ -62,7 +62,7 @@ const Responsibilities = ({ title, items = [], setItems, loading }) => {
           fontWeight: "bold",
           p: 1,
           borderRadius: "10px",
-          backgroundColor: "#4786e6",
+          backgroundColor: "#7db432",
           marginTop: "10px",
         }}
         onClick={addItem}

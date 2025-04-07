@@ -41,8 +41,8 @@ const NavBar = () => {
                     </li>
                     <li>
                       <i className="fas fa-envelope" />
-                      <a href="mailto:info@GenStree.co.in">
-                        info@GenStree.co.in
+                      <a href="mailto:info@genStree.co.in">
+                        info@genStree.co.in
                       </a>
                     </li>
                   </ul>
@@ -166,122 +166,7 @@ const NavBar = () => {
                       <li>
                         <Link to="/HowWeDoIt">How we do it</Link>
                       </li>
-                      <li className="menu-item-has-children">
-                        <a href="#">About Company</a>
-                        <ul className="sub-menu">
-                          <li>
-                            <Link to="/whyUs">WHY CHOOSE US ?</Link>
-                          </li>
-                          <li>
-                            <Link to="/OurLegacyLeadership">
-                              OUR LEGACY & LEADERSHIP
-                            </Link>
-                          </li>
-                        </ul>
-                      </li>
-                      <li className="menu-item-has-children mega-menu-wrap">
-                        <a href="#">Solution</a>
-                        <ul className="mega-menu">
-                          <li>
-                            <a href="#">
-                              Standalone Products : Solution & Application
-                            </a>
-                            <ul style={{ marginBottom: "10px" }}>
-                              <li>
-                                <Link to="/qblock">Qblock</Link>
-                              </li>
-                              <li>
-                                <Link to="/LogBooksPage">LogBooks</Link>
-                              </li>
-                              <li>
-                                <Link to="/edusaroj">Saroj Education</Link>
-                              </li>
-                              <li>
-                                <Link to="/VisionDeskPage">
-                                  VisionDesk (MIS Portal)
-                                </Link>
-                              </li>
-                              <li>
-                                <Link to="/CollegeFeeManagement">
-                                  College Fee Management
-                                </Link>
-                              </li>
-                              <li>
-                                <Link to="/StudentFinanceManagement">
-                                  Student Finance Management
-                                </Link>
-                              </li>
-                              <li>
-                                <Link to="/IManagerPage">IManager</Link>
-                              </li>
-                              <li>
-                                <Link to="/CropnetPage">Cropnet</Link>
-                              </li>
-                              <li>
-                                <Link to="/TourismApplicationPage">
-                                  Tourism Application
-                                </Link>
-                              </li>
-                              <li>
-                                <Link to="/SarojEducationPage">
-                                  Saroj Education Mobile app
-                                </Link>
-                              </li>
-                            </ul>
-                            <a href="#">ERP Solutions</a>
-                            <ul>
-                              <li>
-                                <Link to="/EklavyaPage">Eklavya</Link>
-                              </li>
-                            </ul>
-                          </li>
-                          <li>
-                            <a href="#">Data Analytics</a>
-                            <ul>
-                              <li>
-                                <Link to="/FieldQuotationSystemPage">
-                                  Field Quotation System
-                                </Link>
-                              </li>
-                              <li>
-                                <Link to="/DecisionSupportSystemPage">
-                                  Decision Support System
-                                </Link>
-                              </li>
-                              <li>
-                                <Link to="/IssueManagementSystemPage">
-                                  Issue Management System
-                                </Link>
-                              </li>
-                              <li>
-                                <Link to="/AgricultureInformationSystemPage">
-                                  Agriculture Information System
-                                </Link>
-                              </li>
-                            </ul>
-                          </li>
-                          <li>
-                            <a href="#">Internet of Things (IoT)</a>
-                            <ul>
-                              <li>
-                                <Link to="/PhotonPage">
-                                  Photon (Centralized Solar Solution)
-                                </Link>
-                              </li>
-                              <li>
-                                <Link to="/MilkAnalyserPage">
-                                  Milk Analyser
-                                </Link>
-                              </li>
-                              <li>
-                                <Link to="/DairyApplicationPage">
-                                  Dairy Application
-                                </Link>
-                              </li>
-                            </ul>
-                          </li>
-                        </ul>
-                      </li>
+
                       <li className="menu-item-has-children">
                         <a href="#">Blog</a>
                         <ul className="sub-menu">
@@ -329,7 +214,7 @@ const NavBar = () => {
                                   fontWeight: 500,
                                 }}
                                 onMouseEnter={(e) =>
-                                  (e.target.style.color = "#4786e6")
+                                  (e.target.style.color = "#7db432")
                                 }
                                 onMouseLeave={(e) =>
                                   (e.target.style.color = "#141d38")
@@ -337,7 +222,7 @@ const NavBar = () => {
                               >
                                 <i
                                   className="fa fa-sign-out"
-                                  style={{ color: "#4786e6" }}
+                                  style={{ color: "#7db432" }}
                                 ></i>{" "}
                                 Logout
                               </button>
@@ -376,7 +261,7 @@ const NavBar = () => {
                                   fontWeight: 500,
                                 }}
                                 onMouseEnter={(e) =>
-                                  (e.target.style.color = "#4786e6")
+                                  (e.target.style.color = "#7db432")
                                 }
                                 onMouseLeave={(e) =>
                                   (e.target.style.color = "#141d38")
@@ -384,7 +269,7 @@ const NavBar = () => {
                               >
                                 <i
                                   className="fa fa-sign-out"
-                                  style={{ color: "#4786e6" }}
+                                  style={{ color: "#7db432" }}
                                 ></i>{" "}
                                 Logout
                               </button>

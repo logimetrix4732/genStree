@@ -20,7 +20,7 @@ const OurApplicationDevelopment = ({ applicationservices }) => {
             Service benefits
           </span>
           <h2 className="sec-title">
-            What You Can Achieve with Logimetrix Custom App Development
+            What You Can Achieve with GenStree Custom App Development
           </h2>
         </div>
         <div className="slider-area">
@@ -113,7 +113,7 @@ const OurApplicationDevelopment = ({ applicationservices }) => {
       <style jsx>{`
         .see-more,
         .see-less {
-          background: #4786e6;
+          background: #7db432;
           color: #fff;
           padding: 8px 16px;
           border: none;
@@ -124,7 +124,7 @@ const OurApplicationDevelopment = ({ applicationservices }) => {
         }
         .see-more:hover,
         .see-less:hover {
-          background: #4786e6;
+          background: #7db432;
         }
       `}</style>
     </section>

@@ -99,7 +99,7 @@ const AboutUsPage = () => {
                 <div className="icon-masking me-2">
                   <img src={title_shape_2_white} alt="shape" loading="lazy" />
                 </div>
-                Logimetrix TechSolutions
+                GenStree
               </span>
             </div>
             <ul className="breadcumb-menu">
@@ -150,7 +150,7 @@ const AboutUsPage = () => {
                         loading="lazy"
                       />
                     </div>
-                    About Logimetrix IT SOLUTIONS
+                    About GenStree IT SOLUTIONS
                   </span>
                   <h2 class="sec-title">
                     The Best IT Solution With 12+ Years of
@@ -158,13 +158,13 @@ const AboutUsPage = () => {
                   </h2>
                 </div>
                 <p className="mt-n2 mb-25">
-                  Logimetrix Techsolutions is a dynamic and fast-growing
-                  business solutions provider, founded by IIT alumni with deep
-                  expertise in designing and developing cutting-edge custom
-                  software solutions. Backed by a team of highly skilled and
-                  innovative professionals, we are committed to delivering
-                  scalable, efficient, and cost-effective technology solutions
-                  tailored to your business needs.
+                  GenStree is a dynamic and fast-growing business solutions
+                  provider, founded by IIT alumni with deep expertise in
+                  designing and developing cutting-edge custom software
+                  solutions. Backed by a team of highly skilled and innovative
+                  professionals, we are committed to delivering scalable,
+                  efficient, and cost-effective technology solutions tailored to
+                  your business needs.
                 </p>
                 <div className="about-feature-wrap">
                   <div className="about-feature">

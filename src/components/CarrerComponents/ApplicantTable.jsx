@@ -188,14 +188,14 @@ export default function ApplicantTable({
           nextIconButtonProps={{
             style: {
               marginBottom: "12px",
-              color: "#4786e6",
+              color: "#7db432",
             },
             tabIndex: -1,
           }}
           backIconButtonProps={{
             style: {
               marginBottom: "12px",
-              color: "#4786e6",
+              color: "#7db432",
             },
             tabIndex: -1,
           }}

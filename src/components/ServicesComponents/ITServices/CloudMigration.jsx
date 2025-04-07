@@ -31,7 +31,7 @@ import cloudmigration from "../../../Imges/cloudmigration1.jpg";
 const CloudMigration = () => {
   const aboutFeatures = {
     title: "Cloud Migration Services",
-    heading: "Enhance Efficiency with LOGIMETRIX Cloud Migration",
+    heading: "Enhance Efficiency with GenStree Cloud Migration",
     aboutus:
       "We specialize in seamless cloud transitions, optimizing infrastructure for better scalability, security, and cost efficiency. Our solutions integrate effortlessly with existing systems, ensuring enhanced reliability and performance.",
     img: [cloudmigration, about_14_2],

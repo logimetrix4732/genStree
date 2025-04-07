@@ -281,21 +281,21 @@ const BlogComponents = () => {
                       color: "#2f2f33",
                     }}
                     onMouseOver={(e) => {
-                      e.target.style.backgroundColor = "#4786e6";
+                      e.target.style.backgroundColor = "#7db432";
                       e.target.style.color = "white";
                       e.target.querySelector("svg").style.color = "white";
                     }}
                     onMouseOut={(e) => {
                       e.target.style.backgroundColor = "white";
                       e.target.style.color = "#2f2f33";
-                      e.target.querySelector("svg").style.color = "#4786e6";
+                      e.target.querySelector("svg").style.color = "#7db432";
                     }}
                   >
                     Create Blog
                     <ArrowForwardIcon
                       style={{
                         marginLeft: "10px",
-                        color: "#4786e6",
+                        color: "#7db432",
                         transition: "color 0.3s",
                       }}
                     />

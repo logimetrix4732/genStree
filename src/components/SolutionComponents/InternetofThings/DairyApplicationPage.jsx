@@ -129,7 +129,7 @@ const TalkToAbout5Array = {
       defaultOpen: true,
     },
     {
-      question: "How do I get started with logimetrix?",
+      question: "How do I get started with GenStree?",
       answer:
         "You can get started by reaching out to our support team, choosing the right service, and setting up your strategy with our experts.",
     },

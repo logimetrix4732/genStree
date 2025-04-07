@@ -73,7 +73,7 @@ const SuccessStories = ({ data }) => {
                     <div className="blog-bottom">
                       <Link to="/contactUs" className="author">
                         <img src={author11} alt="author" loading="lazy" /> By
-                        Logimetrix
+                        GenStree
                       </Link>
                       <Link to={post.link} className="line-btn">
                         Explore more <i className="fas fa-arrow-right" />
